@@ -1,5 +1,5 @@
 //const wsURL = 'ws://localhost:7070/ws';
-const wsURL = 'ws://my-first-chat-w7js.onrender.com';
+const wsURL = 'wss://my-first-chat-w7js.onrender.com';
 
 const login = document.querySelector('.login_send');
 const loginInput = document.querySelector('.login_input');
